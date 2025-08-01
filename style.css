@@ -1,0 +1,33 @@
+* {
+    border: 1px solid black;
+}
+
+html {
+    font-family: "Roboto"; 
+}
+
+
+
+header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header
+
+header,
+footer {
+    background-color: #1f2937;
+}
+
+header .brand-title {
+    font-size: 24px; 
+    color: #f9faf8;
+}
+
+header .header-links a {
+    font-size: 18px; 
+    color: #e5e7eb; 
+}
+
